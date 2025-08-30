@@ -1,6 +1,6 @@
 This repository provides the Python and Matlab codes that simulate the phase-separated contagion patterns on complex spatial configurations from our manuscript titled "Phase-separated contagion patterns in complex spatial configurations jeopardize efforts towards elimination" by Jianmeng Cui, Wei Gou*, and Zhen Jin*, submitted in 2025.
     
-![](https://github.com/GouComplexityLab/PSContagionPatternsOnSpatialConfiguration/blob/main/Fig3.png)
+![](https://https://github.com/GouComplexityLab/NetPSContagionPatterns/blob/main/Figure11.png)
 Figure: Phase-separated contagion patterns on complex spatial configurations (lattice embedded networks).
 
 
